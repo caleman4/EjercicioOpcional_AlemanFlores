@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">iReader QR</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hintNombre">Nombre del contacto</string>
+    <string name="hintPhone">5518432458</string>
+    <string name="hintCorreo">Correo del contacto</string>
+    <string name="generar">Generar vCard</string>
+    <string name="toastFalta">Falta agregar Nombre y/o Teléfono</string>
+    <string name="vCard">BEGIN:VCARD\\nVERSION:3.0\\nFN:%s\\nTEL:%s\\nEMAIL:%s\\nEND:VCARD</string>
+    <string name="novalido">Este QR no es válido para la aplicación.</string>
+    <string name="beginvcard">BEGIN:VCARD</string>
+    <string name="negadoPermanente">El permiso se negó permanentemente.</string>
+    <string name="salir">Salir</string>
+    <string name="darPermiso">Dar permiso</string>
+    <string name="permisoRequerido">Se requiere un permiso</string>
+    <string name="permiso">Se requiere el permiso a la cámara únicamente para escanear los códigos QR</string>
+    <string name="qrlabel">QR Solution</string>
+    <string name="escanear">Empieza a escanear</string>
+    <string name="crearvCard">Crear vCard</string>
+    <string name="grey">#2c3e50</string>
+</resources>
